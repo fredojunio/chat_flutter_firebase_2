@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "795125594532",
+    "project_id": "chat-firebase-flutter-6688a",
+    "storage_bucket": "chat-firebase-flutter-6688a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795125594532:android:5494f2e737f2888e7fe931",
+        "android_client_info": {
+          "package_name": "com.example.chat_flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795125594532-lh77ruq8lqsdmaqvvrsg22pvj8p2m80i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_flutter_firebase",
+            "certificate_hash": "ebb160350e7a80face9da19b93d6af995acaefde"
+          }
+        },
+        {
+          "client_id": "795125594532-4p0c69e75or6oqt7p27rkthegqsgtuvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMC4bA9maD1uTuKQ6mzp7BHYhQJ67qfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795125594532-4p0c69e75or6oqt7p27rkthegqsgtuvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795125594532-gsn9idp2k2ie88rmrvg6u66ts4i387eo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatFlutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795125594532:android:06e1c97926d26d5b7fe931",
+        "android_client_info": {
+          "package_name": "com.example.chat_flutter_firebase_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795125594532-4p0c69e75or6oqt7p27rkthegqsgtuvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMC4bA9maD1uTuKQ6mzp7BHYhQJ67qfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795125594532-4p0c69e75or6oqt7p27rkthegqsgtuvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795125594532-gsn9idp2k2ie88rmrvg6u66ts4i387eo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatFlutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
